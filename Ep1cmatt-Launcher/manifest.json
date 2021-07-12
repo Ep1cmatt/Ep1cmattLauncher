@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Benalip12 Launcher",
+  "description": "Quick Transfer to media",
+  "version": "1",
+  "icons": { "128": "icon_128.png" },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
